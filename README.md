@@ -1,4 +1,4 @@
-
+FRANKLIN
 # 30 Days of Solidity — Community Submissions
 
 Welcome to the official submissions repo for 30 Days of Solidity!
@@ -6,7 +6,7 @@ Welcome to the official submissions repo for 30 Days of Solidity!
 Every day in April, we're building one smart contract at a time — together.
 
 This repo is where you can submit your code for each day's challenge and become part of the community wall of builders.
-
+ 
 Whether you’re just getting started or already vibing with Solidity, this is your space to learn, share, and grow. Let’s go!
 
 ---
